@@ -51,7 +51,7 @@ You can visualize the logs using tensorboard. View the tensorboard documentation
 * Error Comparison 
 <img src="./images/error_comparison.png"><img/>
 * Best Convolutional after removing Outliers
-<img src="./images/error_removing_outliers.png"><img/>
+<img src="./images/after_removing_outliers.png"><img/>
 * CNN Pooling Predictions
 <img src="./images/cnn_pooling_gru_model.png"><img/>
 * LSTM  Predictions
