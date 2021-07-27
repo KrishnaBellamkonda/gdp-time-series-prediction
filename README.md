@@ -46,18 +46,17 @@ You can visualize the logs using tensorboard. View the tensorboard documentation
 * matplotlib 
 
 ### Project with Images
+* GDP Distribution
+<img src="./images/gdp_distribution.png"><img/>
 * TOP 5 models 
-<img src="./images/top_5_model.png"><img/>
+<img src="./images/top_5_models.png"><img/>
 * Error Comparison 
 <img src="./images/error_comparison.png"><img/>
 * Best Convolutional after removing Outliers
 <img src="./images/after_removing_outliers.png"><img/>
 * CNN Pooling Predictions
 <img src="./images/cnn_pooling_gru_model.png"><img/>
-* LSTM  Predictions
-<img src="./images/cnn_pooling_gru_model.png"><img/>
-* CNN Pooling Predictions
-<img src="./images/cnn_pooling_gru_model.png"><img/>
+
 
 ### Source
 * 1) TensorBoard Documentation (https://www.tensorflow.org/tensorboard)
